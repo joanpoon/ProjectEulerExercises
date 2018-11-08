@@ -1,0 +1,9 @@
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/bin/Debug/netcoreapp2.1/FactorialCalculator.deps.json
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/bin/Debug/netcoreapp2.1/FactorialCalculator.dll
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/bin/Debug/netcoreapp2.1/FactorialCalculator.pdb
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/obj/Debug/netcoreapp2.1/FactorialCalculator.csprojAssemblyReference.cache
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/obj/Debug/netcoreapp2.1/FactorialCalculator.csproj.CoreCompileInputs.cache
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/obj/Debug/netcoreapp2.1/FactorialCalculator.AssemblyInfoInputs.cache
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/obj/Debug/netcoreapp2.1/FactorialCalculator.AssemblyInfo.cs
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/obj/Debug/netcoreapp2.1/FactorialCalculator.dll
+/Users/joanpoon/Projects/FactorialCalculator/FactorialCalculator/obj/Debug/netcoreapp2.1/FactorialCalculator.pdb
